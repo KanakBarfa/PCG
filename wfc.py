@@ -16,7 +16,7 @@ UP = 1
 RIGHT = 2
 DOWN = 3
 LEFT = 4
-gif_writer = imageio.get_writer("map_generation.gif", mode="I")
+gif_writer = imageio.get_writer("map_generation_demo.gif", mode="I")
 
 
 WHITE = (255, 255, 255)
